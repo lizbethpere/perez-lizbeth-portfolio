@@ -10,7 +10,6 @@ I hope to learn how to better present data with visualizations to a wide audienc
 # Portfolio
 This is the place where I will share all of my work and final project. 
 
-(/dataviz2.md)
+[General government debt](/dataviz2.md)
 
-## General government debt
 <iframe src="https://data.oecd.org/chart/6BhT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BhT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
