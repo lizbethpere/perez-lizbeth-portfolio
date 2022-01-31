@@ -10,13 +10,13 @@ I hope to learn how to better present data with visualizations to a wide audienc
 # Portfolio
 This is the place where I will share all of my work and final project. 
 
-## Working with web-based visualization tools and data
+## Government Debt Bar Chart
 
 [Link to other page](/dataviz2.md)
 
 <iframe src="https://data.oecd.org/chart/6BhT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BhT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
-## Working with Flourish
+## Grid of Line Charts
 
 These graphs look at different countries's general government ratio from 1995 to 2019.
 
