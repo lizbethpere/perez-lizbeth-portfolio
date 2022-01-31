@@ -28,3 +28,5 @@ Debt is calculated as the sum of the following liability categories (as applicab
 
 ## Third Data Visualization
 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8568063"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
