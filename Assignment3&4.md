@@ -14,7 +14,8 @@ It was also a bit difficult to read and quickly identify what it was trying to a
 
 This is how I decided to draw a potential solution to the original visualization problem. I decided to not include small lines to represent all the years. Instead I decided to only show the most important dates and provide descriptions in boxes to help readers better understand the information that is being presented. 
 I also decided to add a title to the visualization so busy readers can easily understand what is being presented. My friends mentioned that the design was better compared to the original one, but were confused about the colors that I used and the fact that I highlighted reforms that failed to pass. 
-I did this because when I was discussing this paper in class it was difficult to tell which reforms failed. When I highlighted them I noticed that there were a lot of health care reforms that failed to pass but could have made a huge impact in the United States. 
+I did this because when I was discussing this paper in class it was difficult to tell which reforms failed.
+When I highlighted them I noticed that there were a lot of health care reforms that failed to pass but could have made a huge impact in the United States. 
 Since my friends did not understand, I will change the colors that I used and not highlight the reforms that failed to pass. 
 
 ## Feedback 
