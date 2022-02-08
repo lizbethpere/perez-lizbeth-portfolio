@@ -32,8 +32,7 @@ In addition, this visualization is not appropriate for the audience. People in t
 
 This the best result based on the feedback provided in class. My classmates mentioned that it was hard to understand the original graph without a title in the article and that there was too much information. They also mentioned that my first sketch was confusing by using dark and light blue because it had no meaning. 
 They suggested finding a way where the dates will not look crowded and to just mention the necessary information. I found this graph in a health policy paper for people that are familiar with health care reforms in the United States. Keeping this in mind, I decided to include only the name of the reforms, agencies, and governments instead of providing a full description. 
-The paper as it progresses provides the necessary information about each event and their implications in health care reform. It will sound repetitive if that information is included in the best visualization. Instead the best visualization serves as a guide and point of reference for readers with consistent and pleasing colors. 
-However due to software limitations, I was unable to create this visualization with one the softwares required by class because they unfortunately do not have this design. 
+The paper as it progresses provides the necessary information about each event and their implications in health care reform. It will sound repetitive if that information is included in the best visualization. Instead the best visualization serves as a guide and point of reference for readers with consistent and pleasing colors. However due to software limitations, I was unable to create this visualization with one the softwares required by class because they unfortunately do not have this design. 
 
 ## Final Result 
 <div class="flourish-embed flourish-cards" data-src="visualisation/8638999"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
