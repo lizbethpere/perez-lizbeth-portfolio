@@ -35,4 +35,4 @@ I decided to use a Column Chart (grouped) for my third visualization because it 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8568063"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Critique by Design
-(Assigment 3 and 4) 
+(Assigment 3 and 4.md) 
