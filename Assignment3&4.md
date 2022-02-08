@@ -22,7 +22,7 @@ Since my friends did not understand, I will change the colors that I used and no
 ![feedback](Feedback.png)
 
 ## First Solution Attempt 
-![first solution](Firstsolution.png)
+![first solution](Firstsolution .png)
 
 This was my first solution attempt using Flourish. I thought that it would be good to have all the dates in a way that is easier to read. As I started working on this design I noticed that it might not work for this case because there were 22 dates and it will take time to look at all of them. 
 In addition, this visualization is not appropriate for the audience. People in the healthcare industry might find this as irrelevant to the field and might not serve the right purpose in the paper. My classmates agreed that it felt more like a todo list than a timeline. So, I decided to take another approach. 
