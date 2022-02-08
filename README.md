@@ -35,4 +35,4 @@ I decided to use a Column Chart (grouped) for my third visualization because it 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8568063"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Critique by Design
-[this is the text you want to link](Assigment3&4)  
+[Link to Assigment 3&4](Assigment3&4)  
