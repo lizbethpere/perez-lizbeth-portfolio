@@ -36,6 +36,6 @@ The paper as it progresses provides the necessary information about each event a
 However due to software limitations, I was unable to create this visualization with one the softwares required by class because they unfortunately do not have this design. 
 
 ## Final Result 
-<div class="flourish-embed flourish-cards" data-src="visualisation/8638999"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[final result] <div class="flourish-embed flourish-cards" data-src="visualisation/8638999"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This is my final result. I decided to use colors that emphsizes the events in health care reform in the United States. I think a more interactive visualization in the online journal will allow readers to easily learn about major events in health care reform. 
