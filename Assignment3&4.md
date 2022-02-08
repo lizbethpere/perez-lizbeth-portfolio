@@ -28,7 +28,7 @@ This was my first solution attempt using Flourish. I thought that it would be go
 In addition, this visualization is not appropriate for the audience. People in the healthcare industry might find this as irrelevant to the field and might not serve the right purpose in the paper. My classmates agreed that it felt more like a todo list than a timeline. So, I decided to take another approach. 
 
 ## Best Result 
-![best result](Bestresult.png)
+![best solution](Bestsolution.png)
 
 This the best result based on the feedback provided in class. My classmates mentioned that it was hard to understand the original graph without a title in the article and that there was too much information. They also mentioned that my first sketch was confusing by using dark and light blue because it had no meaning. 
 They suggested finding a way where the dates will not look crowded and to just mention the necessary information. I found this graph in a health policy paper for people that are familiar with health care reforms in the United States. Keeping this in mind, I decided to include only the name of the reforms, agencies, and governments instead of providing a full description. 
