@@ -36,3 +36,6 @@ I decided to use a Column Chart (grouped) for my third visualization because it 
 
 ## Critique by Design
 [assigment3&4](Assignment3&4.md)  
+
+
+## Final Project Part I
