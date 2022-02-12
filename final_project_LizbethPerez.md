@@ -11,7 +11,7 @@ Resolution: A universal voucher housing system will help solve this problem.
 
 ## Datasets
 
-Nebraska is debating about applying for additional funds for rent-eviction relief 
+- Nebraska is debating about applying for additional funds for rent-eviction relief 
 (https://www.wowt.com/2022/02/11/nebraska-organizations-debate-over-federal-funds-rent-eviction-relief/)
 
 UNL project focused on reducing and assisting families with evictions 
