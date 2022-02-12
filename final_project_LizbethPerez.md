@@ -7,7 +7,7 @@ Summary of project: For my project, I am interested in showing the growing numbe
 Setup: We all know that evictions in the country are increasing. 
 Conflict: Evictions affect families in multiple ways and the people involved in the process. 
 Resolution: A universal voucher housing system will help solve this problem. 
-![sketches](sketches.png)
+![sketches](sketches.jpg)
 
 ## Datasets
 Nebraska is debating about applying for additional funds for rent-eviction relief (https://www.wowt.com/2022/02/11/nebraska-organizations-debate-over-federal-funds-rent-eviction-relief/)
@@ -27,7 +27,7 @@ Pandemic Relief: The Emergency Rental Assistance Program (https://crsreports.con
 
 ## Sketches 
 This visualization represents my perspective about the levels of interest of the audience about evictions. 
-![class](class.png)
+![class](class.jpg)
 
 ## Method and Medium 
 
