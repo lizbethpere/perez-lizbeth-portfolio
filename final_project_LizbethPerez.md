@@ -8,7 +8,6 @@ Setup: We all know that evictions in the country are increasing.
 Conflict: Evictions affect families in multiple ways and the people involved in the process. 
 Resolution: A universal voucher housing system will help solve this problem. 
 ![sketches](sketches.jpg)
-
 ## Datasets
 
 - Nebraska is debating about applying for additional funds for rent-eviction relief. I plan to use this information to show how some states in the country that have access to rent-eviction relief do not use it. The Governor of Nebraska mentioned in a recent interview that they will not apply for relief because Nebraska doesn't need it.  
