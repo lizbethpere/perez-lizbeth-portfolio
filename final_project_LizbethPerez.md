@@ -17,8 +17,7 @@ Resolution: A universal voucher housing system will help solve this problem.
 (https://journalstar.com/news/local/education/nebraska-college-of-law-recognized-nationally-for-tenant-assistance-project/article_4d6c8531-05f9-534a-b1f0-225ef4ccaea7.html)
 
 - More about how the UNL project works. This article talks more about initiatives that reduce evictions, but it also lists data about overall evictions in Nebraska. 
-
- (https://www.ketv.com/article/local-law-students-help-families-facing-eviction/38988044#)
+(https://www.ketv.com/article/local-law-students-help-families-facing-eviction/38988044#)
 
 - Adequacy of housing policies in response to COVID-19 pandemic in the United States as of May 2021, by state. This was obtained from Statista, and I plan to use it in the set-up part of the project to show the impact of COVID-19 in evictions. 
 (https://www.statista.com/statistics/1111306/policy-housing-states-covid19-usa/)
