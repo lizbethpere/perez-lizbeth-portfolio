@@ -8,3 +8,5 @@ I used PowerPoint to layout my work before I move it to Shorthand. I think this 
 
 ## Interview Findings 
 ![interview](s.png)
+
+For my interviews, I decided to first interview people without a background in Public Policy. I wanted to see if they might be able to understand the information without prior education about the topic. To my surprise some of them were familiar with the topic, but others not so much. Some of them told me that the story was easy to follow and that including an impactful story at the beginning set the tone for the entire presentation. They said that the colors of the presentation made showed the impact of the topic so for Part III of the project I will use the same theme. Some of the people that I interview mentioned that it was hard to understand how income affects people and influences evictions so I will spend more time in this section to make it easier to understand. I will also do additional research about particular stat.  
