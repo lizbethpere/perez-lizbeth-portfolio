@@ -5,4 +5,4 @@
 
 
 ## Interview Findings 
-![interview](s.jpg)
+![interview](s.png)
