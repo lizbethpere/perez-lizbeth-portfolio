@@ -40,3 +40,7 @@ I decided to use a Column Chart (grouped) for my third visualization because it 
 
 ## Final Project Part I
 [finalprojectpartI](final_project_LizbethPerez.md) 
+
+
+## Final Project Part II
+
