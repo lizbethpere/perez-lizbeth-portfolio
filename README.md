@@ -42,5 +42,8 @@ I decided to use a Column Chart (grouped) for my third visualization because it 
 [finalprojectpartI](final_project_LizbethPerez.md) 
 
 
-## Final Project Part II
+## Final Project Part II 
 
+
+## Final Project Part III
+[FinalProjectIII](FinalProjectIII.md)
