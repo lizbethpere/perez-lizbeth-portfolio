@@ -46,5 +46,6 @@ I decided to use a Column Chart (grouped) for my third visualization because it 
 
 [PartII](PartII.md)
 
+
 ## Final Project Part III
 [FinalProjectIII](FinalProjectIII.md)
