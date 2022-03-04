@@ -26,7 +26,7 @@ This is the place where I will share all of my work and the final project. Pleas
 
 
 ## Final Project Part I
-[finalprojectpartI](final_project_LizbethPerez.md) 
+[finalprojectpartI](PartI.md) 
 
 
 ## Final Project Part II 
