@@ -23,7 +23,7 @@ I also decided to start my project with a story and then talk about general info
 I was surprised at the lack of recent data about this topic but at the same time, it makes sense. A lot of states were not tracking evictions during the pandemic and others are tracking formal evictions, not informal ones. For my visualizations, 
 I tried to include all the necessary information for anyone to understand them. I decided to use colors that were easy to understand and that stand out from the overall presentation. I liked the features available in Infogram but to my surprise, 
 I was not able to download them because I needed a subscription. I had to take screenshots of the graphics and visualization which I did not like because I wanted the visualization to be interactive. In the end, I asked friends to look over my work 
-one more time and to my surprise they liked it. In my opinion, I think I needed to add more visualizations to make it more impactful. I am still happy with how I was able to put my story together. I think with all the feedback provided, my presentation is now easy to navigate and understand. 
+one more time and to my surprise they liked it. I think I needed to add more visualizations to make it more impactful. I am still happy with how I was able to put my story together. I think with all the feedback provided, my presentation is now easy to navigate and understand. 
 
 
 ## Link to Final Project 
