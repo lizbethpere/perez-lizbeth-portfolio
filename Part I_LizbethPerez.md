@@ -2,7 +2,7 @@
 
 ## Outline
 
-Summary of project: For my project, I am interested in showing the growing number of evictions in the country, the way government officials are addressing this problem, the implications of evictions in communities, and what actions are needed to address this issue. This is with the purpose of informing the audience and hopefully motivating them to take action. 
+Summary: For part I of the final project, I am interested in showing the growing number of evictions in the country, the way government officials are addressing this problem, the implications of evictions in communities, and what actions are needed to address this issue. This is with the purpose of informing the audience and hopefully motivating them to take action. 
 
 Setup: We all know that evictions in the country are increasing. 
 
@@ -55,7 +55,7 @@ Resolution: A universal voucher housing system will help solve this problem.
 (https://crsreports.congress.gov/product/pdf/R/R46688)
 
 ## Sketches 
-This visualization represents my perspective about the levels of interest of the audience about evictions. 
+This visualization represents my perspective about the expected levels of interest of the audience about evictions. 
 ![class](class.jpg)
 
 ## Method and Medium 
