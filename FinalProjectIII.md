@@ -27,4 +27,4 @@ one more time and to my surprise they liked it. I think I needed to add more vis
 
 
 ## Link to Final Project 
-(https://carnegiemellon.shorthandstories.com/eviction-crisis-in-the-united-states/index.html)
+[Link](https://carnegiemellon.shorthandstories.com/eviction-crisis-in-the-united-states/index.html)
