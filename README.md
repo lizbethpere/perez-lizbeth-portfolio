@@ -10,29 +10,13 @@ I hope to learn how to better present data with visualizations to a wide audienc
 # Portfolio
 This is the place where I will share all of my work and final project. 
 
-## Government Debt Bar Chart
 
-[Link to other page](/dataviz2.md)
+# Work Overview 
 
-<iframe src="https://data.oecd.org/chart/6BhT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BhT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+## Visualizing Government Debt 
 
-## Grid of Line Charts
+[governmentvisualization](VisualizingGovernmentDebt.md)
 
-These graphs look at different countries's general government ratio from 1995 to 2019.
-
-General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. 
-It is a key indicator for the sustainability of government finance. 
-Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. 
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/8567894"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-## Third Data Visualization
-
-These graphs look at different countries's general government ratio from 1995 to 2019.
-
-I decided to use a Column Chart (grouped) for my third visualization because it allows readers to easily identify countries of interest and easily identify the y and x axis. With the general Debt Bar Chart it can be difficult to identify a country easily. It also highlights only a few countries that do not necessarily tell important information to the reader. The Grid of Line Chart does a good job identifying each country easily and allows readers to compare. However, the color red might not be the best color choice for color-blind readers. The Third Data Visualization takes all care of all these concerns by using a blue color and bars to easily compare countries. A person unfamiliar with the government debt ratio will easily understand what is being compared. 
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/8568063"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Critique by Design
 [assigment3&4](Assignment3&4.md)  
