@@ -18,21 +18,21 @@ This is the place where I will share all of my work and the final project. Pleas
 
 ## Visualizing Government Debt 
 
-[governmentvisualization](VisualizingGovernmentDebt.md)
+[Government Visualization](VisualizingGovernmentDebt.md)
 
 
 ## Critique by Design
-[assigment3&4](Assignment3&4.md)  
+[Assigment3&4](Assignment3&4.md)  
 
 
 ## Final Project Part I
-[finalprojectpartI](PartI.md) 
+[Final Project Part I](PartI.md) 
 
 
 ## Final Project Part II 
 
-[PartII](PartII.md)
+[Final Part II](PartII.md)
 
 
 ## Final Project Part III
-[FinalProjectIII](FinalProjectIII.md)
+[Final Project III](FinalProjectIII.md)
