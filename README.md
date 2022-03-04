@@ -1,4 +1,4 @@
-# perez-lizbeth-portfolio
+# Lizbeth Perez Portfolio
 This is my public portfolio for Telling stories with data at CMU! 
 
 # About me 
